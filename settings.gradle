@@ -1,0 +1,2 @@
+rootProject.name='CloudStorageApp'
+include ':app'
